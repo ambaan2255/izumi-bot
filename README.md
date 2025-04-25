@@ -18,7 +18,7 @@ Izumi - Simple whatsapp Multi Device whatsapp bot.
 
 3. Now Deploy
     <br>
-<a href='https://render.com/deploy?repo=https://github.com/Akshay-Eypz/izumi-bot' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/-DEPLOY-black?style=for-the-badge&logo=render&logoColor=white'/></a>
+<a href='https://render.com/deploy?repo=https://github.com/nova-ser/izumi-bot' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/-DEPLOY-black?style=for-the-badge&logo=render&logoColor=white'/></a>
 
 
 ### DEPLOY TO KOYEB
